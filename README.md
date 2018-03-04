@@ -8,7 +8,7 @@ this emacs is configured for:
   * auto-completion mode 
   * theme (optional)
 
-#sedik-theme.el
+# sedik-theme.el
 * show-paren-mode allows one to see matching pairs of parentheses and other characters. When point is on one of the paired characters, the other is highlighted.
 
 * Cua-mode allows one to use ```C-v```, ```C-c```, and ```C-x``` to paste, copy, and cut the region.
