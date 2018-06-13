@@ -1,4 +1,4 @@
-# emacs.d
+# emacs configuration for tuareg ocaml Linux
 this emacs is configured for:
   * ocaml
   * tuareg mode
